@@ -1,0 +1,11 @@
+.main-container {
+    background-color: lightblue;
+    min-height: 100vh;
+    padding: 15px;
+}
+
+.main-title {
+    color: white;
+    font-size: 3.5rem;
+    text-align: center; 
+}
